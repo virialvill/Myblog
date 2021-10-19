@@ -1,0 +1,23 @@
+{
+  "name": "jamstack",
+  "version": "1.0.0",
+  "description": "## Homework",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virialvill/JAMStack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virialvill/JAMStack/issues"
+  },
+  "homepage": "https://github.com/virialvill/JAMStack#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "keywords": []
+}
